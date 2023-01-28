@@ -32,14 +32,14 @@ export default function Navbar() {
     <div className={styles.nav}>
       <div className={styles.leftDiv}>
       <Link to="/">
-        <img alt="logo" className={styles.logo} src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
+        <img alt="logo" className={styles.logo} src="https://cdn-icons-png.flaticon.com/512/3670/3670124.png" />
       </Link>
       </div>
 
       <div className={styles.searchContainer}>
         <img
           className={styles.searchIcon}
-          src="https://image.flaticon.com/icons/svg/483/483356.svg"
+          src="https://cdn-icons-png.flaticon.com/128/151/151773.png"
           alt=""
         />
 
